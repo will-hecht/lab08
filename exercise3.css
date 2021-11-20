@@ -1,0 +1,35 @@
+body
+{
+	background-image: url(nevergonna.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+p
+{
+	background-color: white;
+	color: red;
+	font-family: arial;
+	font-size: 22pt;
+	max-width: 400px;
+}
+
+p.title
+{
+	background-color: white;
+	color: black;
+	font-family: arial;
+	font-size: 22pt;
+}
+
+a
+{
+	background-color: white;
+	color: black;
+}
+
+a:hover
+{
+	background-color:white;
+	color: blue;
+}
